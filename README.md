@@ -1,5 +1,4 @@
-# JDBC-CRUD-Application-Enhanced
-Developed JDBC CRUD Application , 
+#  Re-written my Old JDBC Console based CRUD application 
 This application will be very much helpful for a Normal user to perform CRUD Operations in Database without Knowing Database Concepts. 
 
 Previously I developed one JDBC app Using Statement Object.
