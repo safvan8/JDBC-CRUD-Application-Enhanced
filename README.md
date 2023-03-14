@@ -8,8 +8,5 @@ This application is ideal for anyone looking to interact with databases using a 
 
 ## see application demo below
 ![image](https://user-images.githubusercontent.com/108913933/225012321-2a3f2dac-d044-421e-bd93-0d2e203ad751.png)
-![image](https://user-images.githubusercontent.com/108913933/225012396-0928c83f-39b8-4f2e-973c-6609a2397b4e.png)
-![image](https://user-images.githubusercontent.com/108913933/225012432-71a8c7e4-d4f5-45a4-a7e9-a3a566ae5533.png)
-![image](https://user-images.githubusercontent.com/108913933/225012489-999c9628-1895-41ce-a843-4e77c0fee975.png)
-![image](https://user-images.githubusercontent.com/108913933/225012521-0709fe85-2a8d-430c-b094-2729e19a5f87.png)
 
+You can view a complete demo of the application by clicking <a href="https://github.com/safvan8/JDBC-CRUD-Application-Enhanced/blob/main/CodeOutput.pdf">here</a>.  
